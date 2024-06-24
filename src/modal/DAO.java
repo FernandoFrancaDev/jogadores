@@ -7,8 +7,8 @@ public class DAO {
 	private Connection con;
 	private String driver = "com.mysql.cj.jdbc.Driver";
 	private String url = "jdbc:mysql://localhost:3306/dbjogador";
-	private String user = "root";
-	private String password = "Fera2001#mysql";
+	private String user = " ";
+	private String password = " ";
 	
 	
 	public Connection conectar() {
